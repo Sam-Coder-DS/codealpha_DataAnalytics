@@ -1,4 +1,4 @@
-# codealpha_tasks-
+# codealpha_tasks
 # Task 2 – EDA on AQI of India 🇮🇳
 
 This notebook performs Exploratory Data Analysis (EDA) on India’s Air Quality Index (AQI) data using Python in Google Colab.
